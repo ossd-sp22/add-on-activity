@@ -4,15 +4,17 @@
 
 2. The LICENSE is necessary to label the project as open source. It needs to be in the repository if the creators wish to make the project open to all.
 
-3.
+3. CONTRIBUTING.md outlines how a new user can contribute to the open source project and it can also provide examples.
+
+4. - People can contribute by writing out a brand-new example or extending an existing example that highlights a particular API and how it's used.
 
 6. Describe three types of behaviors that violate the Mozilla Community Participation Guidelines.
+
 - Being rude to other members (e.g making comments that are personal!!)
 - Discouraging voices and excluding people (e.g talking over people)
 - Using derogatory language
 
+7. If a person working with the content of this repository runs into problems or has questions, what can they do?
 
-7. If a person working with the content of this repository runs into problems or has questions, what can they do? 
-
-- First look at the README.md file if there is anything you missed out! 
-- If it isn't there ask the class slack group :^) 
+- First look at the README.md file if there is anything you missed out!
+- If it isn't there ask the class slack group :^)
