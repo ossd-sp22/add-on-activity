@@ -14,11 +14,11 @@
 7. Can ask questions on the community forum or ask on Mozilla's Matrix instance.
 
 # Part 4
-## [PocketTube](https://addons.mozilla.org/en-US/firefox/addon/youtube-subscription-groups/) 
+1. [PocketTube](https://addons.mozilla.org/en-US/firefox/addon/youtube-subscription-groups/) 
 
-[License](https://www.mozilla.org/en-US/MPL/2.0/)
+2. [License](https://www.mozilla.org/en-US/MPL/2.0/)
 
-[Repository](https://github.com/NabokD/pockettube)
+3. [Repository](https://github.com/NabokD/pockettube)
 
 4. Its not a open source project unfortunately
 
