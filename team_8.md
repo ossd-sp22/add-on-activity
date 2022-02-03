@@ -6,7 +6,7 @@
 
 3. CONTRIBUTING.md outlines how a new user can contribute to the open source project and it can also provide examples.
 
-4. - People can contribute without coding by writing out a brand-new example or extending an existing example that highlights a particular API and how it's used.
+4. People can contribute without coding by writing out a brand-new example or extending an existing example that highlights a particular API and how it's used.
 
 6. Describe three types of behaviors that violate the Mozilla Community Participation Guidelines.
 
