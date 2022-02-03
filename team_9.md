@@ -1,3 +1,5 @@
+# Part 3
+
 ## What is the purpose of the README.md file? What kind of information should be included there?
 
 The README.md gives a general description of the project including its purpose, its contents, and its usage. It then gives more specific instructions on how to use the files in the repo including further readings and actual implementation of the code across different browsers. It makes sense for this information to be included here. The README should give a general overview so that users know what they are working with. It should also demonstrate how to run the program and offer communication between the user and developer if there are any problems.
