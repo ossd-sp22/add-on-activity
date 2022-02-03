@@ -6,7 +6,9 @@
 
 3. CONTRIBUTING.md outlines how a new user can contribute to the open source project and it can also provide examples.
 
-4. Describe three types of behaviors that violate the Mozilla Community Participation Guidelines.
+4. - People can contribute by writing out a brand-new example or extending an existing example that highlights a particular API and how it's used.
+
+6. Describe three types of behaviors that violate the Mozilla Community Participation Guidelines.
 
 - Being rude to other members (e.g making comments that are personal!!)
 - Discouraging voices and excluding people (e.g talking over people)
