@@ -13,3 +13,15 @@
 6. Personal attacks, derogatory language, unwelcome sexual attention/physical contact.
 
 7. Open an issue. Other members of the project will try to solve the problem to the best of their ability.
+
+# Part 4
+
+1. [Homepage](https://privacybadger.org/)
+
+2. [GNU GPL v3](https://github.com/EFForg/privacybadger/blob/master/LICENSE)
+
+3. [The repo](https://github.com/EFForg/privacybadger)
+
+4. Yes; it's an EFF project.
+
+5. [150 contributors](https://github.com/EFForg/privacybadger/graphs/contributors)
