@@ -6,3 +6,10 @@
 5. The purpose of the CODE_OF_CONDUCT.md document is to provide guidelines on how to be a respectful contributor. It also provides a means to provide any improper behavior.
 6. Three types of behaviors that violate the Mozilla Community Participation Guidelines are derogatory language, disruptive behavior, and unwelcome sexual attention or physical contact.
 7. If a person runs into problems or has questions they should post a query on the add-ons discourse forum, email the dev-addons mailing list, or contact the add-ons team in the Add-ons room on Matrix.
+
+## Part 4
+1. https://github.com/Robbendebiene/Gesturefy
+2. GNU General Public License v3.0
+3. Yes: https://github.com/Robbendebiene/Gesturefy/tree/master/src
+4. 
+5. 
