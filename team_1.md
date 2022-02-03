@@ -25,3 +25,7 @@
 4. Yes; it's an EFF project.
 
 5. [150 contributors](https://github.com/EFForg/privacybadger/graphs/contributors)
+
+# Part 5
+
+[Our repo](https://github.com/ossd-sp22/less-ugly-brightspace).
