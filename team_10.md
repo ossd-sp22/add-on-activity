@@ -1,3 +1,4 @@
+## Part 3
 1. The purpose of the README.md file is to serve as an introduction to the project. It does this by providing examples, a how-to use section, and installation instructions. It also gives instructions needed to handle any potential issues. 
 2. The LICENSE file touches upon the permissions and limitations of how the code can be used, modified, and distributed. The LICENSE file does need to be in the repository if you want to allow other creators to use your code. If it's not in the repository, you are automatically protected by copyright laws.
 3. The CONTRIBUTING.md file supplies guidelines on how to improve and modify the repository and gives examples on the format and style.
