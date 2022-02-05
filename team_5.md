@@ -27,3 +27,6 @@
 4. It’s licensed under GPLv3, so while it can be copied and distributed, it can’t be modified.
 
 5. There’s 14 current contributors as well as several past ones and translators. The full list can be found [here](https://getadblock.com/en/contributors/).
+
+# Part 5
+[link for extension repo](https://github.com/ossd-sp22/study-timer)
