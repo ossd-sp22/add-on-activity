@@ -30,3 +30,32 @@ The purpose of the CODE_OF_CONDUCT.md document indicates the rules and guideline
 
 They can refer to the very end of the CONTRIBUTING.md file, which states: “If you need help with writing a WebExtension, please post on our [add-ons community forum](https://discourse.mozilla.org/c/add-ons/development/108) or ask in the [Add-ons channel](https://chat.mozilla.org/#/room/#addons:mozilla.org) on [Mozilla's Matrix instance](https://wiki.mozilla.org/Matrix).”
 
+
+---
+
+## Part 4 : Explore Existing Extensions
+
+### 1. What is the homepage of the extension? 
+
+The extension we picked is [Emoji](https://addons.mozilla.org/en-US/firefox/addon/emoji-sav/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=tag-shelf-pinterest) by Saverio Morelli (Sav22999).
+
+### 2. What is the license under which the extension is distributed?
+
+The extension is distributed under the Mozilla Public License 2.0. 
+### 3. Can you find a code repository for this extension?
+
+The extension is an open source project and can be found [here](https://github.com/Sav22999/emoji
+). 
+
+### 4. Is the extension that you picked an open source project?
+
+Yes it is. The extension also allows for users to customize the add on and also allows for users to enable and disable various options. 
+
+### 5. Can you find information about how many different users contribute to this project? If so, specify how many.
+
+On GitHub, it shows that there are 4 contributors to the project. 
+
+
+
+
+
