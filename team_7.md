@@ -55,6 +55,11 @@ Yes it is. The extension also allows for users to customize the add on and also 
 
 On GitHub, it shows that there are 4 contributors to the project. 
 
+## Part 5 : Create your own 
+
+[slap-a-stache](https://github.com/ossd-sp22/slap-a-stache) 
+
+｡ﾟ(ﾟ´┏∀┓｀*ﾟ)ﾟ｡
 
 
 
