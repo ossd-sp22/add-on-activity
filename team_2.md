@@ -7,6 +7,12 @@
 
 3. The CONTRIBUTING.md file gives potential project contributors instructions on how to contribute to the project. Additionally, it highlights how they can collaborate with other contributors and guidelines they are meant to follow. 
 
+4. When project owners create the README.md, LICENSE, and CONTRIBUTING.md files, they are contributing to the project without writing any code. Additionally, writing documentation for certain aspects of the project can be considered meaningful contributions without actually writing any code. 
+
+5. The purpose of the CODE_OF_CONDUCT.md file is to provide community guidelines, values, and behaviors for users to follow. It can also help provide instructions for if/when there is a conflict between users. 
+
+
+
 # Part 4
 
 
