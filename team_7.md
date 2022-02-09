@@ -57,7 +57,7 @@ On GitHub, it shows that there are 4 contributors to the project.
 
 ## Part 5 : Create your own 
 
-[slap-a-stache](https://github.com/ossd-sp22/slap-a-stache) 
+[slap-a-fetti](https://github.com/ossd-sp22/slap-a-fetti) 
 
 ｡ﾟ(ﾟ´┏∀┓｀*ﾟ)ﾟ｡
 
