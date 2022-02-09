@@ -7,7 +7,9 @@
 
 3. The CONTRIBUTING.md file gives potential project contributors instructions on how to contribute to the project. Additionally, it highlights how they can collaborate with other contributors and guidelines they are meant to follow. 
 
-# Part 4
+6. Violence and threats of violence, Personal Attacks, Derogatory Language
 
+7. Email the address cpg-questions@mozilla.com if any questions arise.
+# Part 4
 
 # Part 5
