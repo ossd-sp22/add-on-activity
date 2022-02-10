@@ -15,5 +15,17 @@
 
 # Part 4
 
+[Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
+1. [Homepage](https://darkreader.org/)
+
+2. The project uses [The MIT License](https://opensource.org/licenses/mit-license.php), which says "Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files... the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software... The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software." 
+
+3. [Code repository](https://github.com/darkreader/darkreader)
+
+4. This extension is an open source project.
+
+5. Under repository Insights --> Contributors, it seems that there are 98 contributors to this project from Nov 9 2014 to Feb 9 2022.
+
 
 # Part 5
