@@ -20,5 +20,19 @@ The purpose of the CODE_OF_CONDUCT.md document is to align every contributor to 
 
 7. If a person working with the content of this repository runs into problems or has questions, what can they do?
 
-- First look at the README.md file if there is anything you missed out!
-- If it isn't there ask the class slack group :^)
+- you can contact the add-ons team 
+- you can file a bug 
+- you can post a query on the adds-on discourse forum
+
+
+# Part 4 
+1. Our favorite add-on is Wii Shop Channel Music 
+-  The homepage for this is [here](https://addons.mozilla.org/en-US/firefox/addon/wii-shop-channel/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=featured)
+
+2. The license under which the extension is distributed is GNU General Public License v3.0
+
+3. The source code of this extension can be found [here](https://github.com/corbindavenport/wii-shop-extension/)
+
+4. Since it is under the General Public License v3.0, it is considered open source code. 
+
+5. There are 8 contributors in total. 
