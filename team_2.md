@@ -11,7 +11,9 @@
 
 5. The purpose of the CODE_OF_CONDUCT.md file is to provide community guidelines, values, and behaviors for users to follow. It can also help provide instructions for if/when there is a conflict between users. 
 
+6. Violence and threats of violence, Personal Attacks, Derogatory Language
 
+7. Email the address cpg-questions@mozilla.com if any questions arise.
 
 # Part 4
 
