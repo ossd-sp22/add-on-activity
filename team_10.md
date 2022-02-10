@@ -15,4 +15,4 @@
 5. There are 13 contributors on the GitHub page.
 
 ## Part 5
-1. 
+Link to browser extension repo: https://github.com/ossd-sp22/Focusify
