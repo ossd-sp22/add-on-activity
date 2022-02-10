@@ -27,7 +27,7 @@ The purpose of the CODE_OF_CONDUCT.md document is to align every contributor to 
 
 # Part 4 
 1. Our favorite add-on is Wii Shop Channel Music 
--  The homepage for this is [here](https://addons.mozilla.org/en-US/firefox/addon/wii-shop-channel/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=featured)
+-  The homepage for this can be found [here](https://addons.mozilla.org/en-US/firefox/addon/wii-shop-channel/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=featured)
 
 2. The license under which the extension is distributed is GNU General Public License v3.0
 
