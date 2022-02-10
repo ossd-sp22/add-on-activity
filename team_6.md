@@ -1,3 +1,4 @@
+#  Part 3
 1. The purpose of the README.md is to provide doccumentation for a given program.
 
 2. The purpose of the LICENSE file is to outline the list of rules for using/reproducing/distributing the code.
@@ -11,3 +12,14 @@
 6. Making fun of someone for speaking their native language, not using prefered pronouns, and ignoring someone for living in a different timezone.
 
 7. Can ask questions on the community forum or ask on Mozilla's Matrix instance.
+
+# Part 4
+1. [PocketTube](https://addons.mozilla.org/en-US/firefox/addon/youtube-subscription-groups/) 
+
+2. [License](https://www.mozilla.org/en-US/MPL/2.0/)
+
+3. [Repository](https://github.com/NabokD/pockettube)
+
+4. Its not a open source project unfortunately
+
+5. It appears that this project has 16 contributors on Github. The main developer is NabokD.
