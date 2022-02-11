@@ -30,3 +30,29 @@ The CODE_OF_CONDUCT.md file redirects users to the latest version of the “​�
 ## If a person working with the content of this repository runs into problems or has questions, what can they do?
 
 If they have a question, they can reach out to the discourse [forums](https://discourse.mozilla.org/c/add-ons/35) or email the developers directly. There are also contact teams who are set to work on the add-ons through [Matrix](https://wiki.mozilla.org/Matrix). Lastly, they can file a bug on the repository itself.
+
+# Part 4
+
+## What is the homepage for the extension?
+
+The extension name is Turn Off the Light. [Here](https://www.turnoffthelights.com/) is the homepage.
+
+## What is the license under which the extension is distributed?
+
+It is licensed under the GNU General Public License v2.0: learn more [here](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
+
+## Can you find a code repository for this extension?
+
+Their general repository is located [here](https://github.com/turnoffthelights). However, they do have this extension across different browsers. The one for Firefox is [here](https://github.com/turnoffthelights/Turn-Off-the-Lights-Firefox-extension-WebExtensions).
+
+## Is the extension that you picked an open source project?
+
+It is an open source project and has been since 2009 as indicated by their [homepage](https://www.turnoffthelights.com/open-source/).
+
+## Can you find information about how many different users contribute to this project? If so, specify how many.
+
+There are two different ways that users can contribute.
+
+- Code: While an open source project, there is mainly only one contributor: Stefan Van Damme who is also the owner. On the repo, there is primarily only [Stefan](https://github.com/stefanvd).
+
+- Translations: One can provide translations for the project and will then be added to the [translators list](https://www.turnoffthelights.com/browser/languages.html). There seems to be hundreds of translators so far.

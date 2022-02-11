@@ -16,3 +16,17 @@
    * email the dev-addons mailing list; 
    * contact the add-ons team in the Add-ons room on Matrix;
    * file a bug.
+
+# Part 4
+1. The homepage for AdBlock is [https://getadblock.com/en/](https://getadblock.com/en/).
+   
+2. The extension is distributed under GNU General Public License v3.0.
+
+3. The source code of this extension can be found [here](https://code.getadblock.com/).
+
+4. It’s licensed under GPLv3, so while it can be copied and distributed, it can’t be modified.
+
+5. There’s 14 current contributors as well as several past ones and translators. The full list can be found [here](https://getadblock.com/en/contributors/).
+
+# Part 5
+[link for extension repo](https://github.com/ossd-sp22/study-timer)
