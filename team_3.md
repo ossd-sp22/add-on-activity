@@ -38,3 +38,7 @@ Our favorite add-on is uBlock origin - it is an ad-blocker
 4. The License is a GNU General Public License v3.0, so yes, it is an open source project. 
 
 5. The GitHub site for the codebase mentions 96 contributors to the projects (listed on the right panel)
+
+
+### Part 5
+[Link to themify repository](https://github.com/ossd-sp22/themify)
