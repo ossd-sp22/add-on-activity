@@ -11,5 +11,8 @@
 1. https://github.com/Robbendebiene/Gesturefy
 2. GNU General Public License v3.0
 3. Yes: https://github.com/Robbendebiene/Gesturefy/tree/master/src
-4. 
-5. 
+4. Yes, we know this because it has the GNU public license and a CONTRIBUTING.md.
+5. There are 13 contributors on the GitHub page.
+
+## Part 5
+Link to browser extension repo: https://github.com/ossd-sp22/Focusify
