@@ -56,3 +56,9 @@ There are two different ways that users can contribute.
 - Code: While an open source project, there is mainly only one contributor: Stefan Van Damme who is also the owner. On the repo, there is primarily only [Stefan](https://github.com/stefanvd).
 
 - Translations: One can provide translations for the project and will then be added to the [translators list](https://www.turnoffthelights.com/browser/languages.html). There seems to be hundreds of translators so far.
+
+# Part 5
+
+- Our link to our extension can be found [here](https://github.com/ossd-sp22/ColorMeValentined).
+
+Enjoy!
