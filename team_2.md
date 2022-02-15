@@ -28,3 +28,6 @@
 4. This extension is an open source project.
 
 5. Under repository Insights --> Contributors, it seems that there are 98 contributors to this project from Nov 9 2014 to Feb 9 2022.
+
+# Part 5
+[Link to repository](https://github.com/ossd-sp22/blinking_borders)
